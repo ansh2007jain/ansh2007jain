@@ -40,7 +40,7 @@ A platform for buying, selling, and donating old books while promoting sustainab
 
 ## 📚 Currently Learning
 
-- JavaScript
+- React
 - Advanced Git & GitHub Workflow
 - Responsive Web Design
 - Advance Python
@@ -65,6 +65,6 @@ A platform for buying, selling, and donating old books while promoting sustainab
 
 ## 🌌 Beyond Coding
 
-I enjoy exploring Physics concepts and learning about space, nuclear science, and scientific discoveries alongside software development.
+I enjoy exploring Physics concepts and learning about space, nuclear science, and scientific discoveries alongside software development. And also an Active Member of NSS. 
 
 ⭐ *Learning • Building • Improving • Growing Every Day*
